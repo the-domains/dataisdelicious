@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[dataisdelicious]]></title>
         <description><![CDATA[dataisdelicious]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dataisdelicious/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 06:19:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 06:24:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dataisdelicious/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to dataisdelicious]]></title>
-            <description><![CDATA[<article><h1>Welcome to dataisdelicious</h1><p>Welcome to dataisdelicious!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e7f8d54-be9c-45e8-aca2-700fda9e4d4c.png"></article>]]></description>
-            <link>undefinedwelcome-to-dataisdelicious/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to dataisdelicious</h1><p>Welcome to dataisdelicious!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57c39963ca34eb0a2284f5d30bb1f40ed82a0d9b.png"></article>]]></description>
+            <link>https://thegrid.ai/dataisdelicious/welcome-to-dataisdelicious/index.html</link>
             <guid isPermaLink="false">83b8481e-e572-43b6-8714-78874c987de3</guid>
-            <pubDate>Tue, 12 Jan 2016 06:19:16 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 06:24:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
