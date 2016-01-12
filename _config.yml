@@ -1,8 +1,7 @@
 name: dataisdelicious
 favicon: null
-layout_spectrum: 0.30639
-typography_spectrum: 0.55389
-title: dataisdelicious
+layout_spectrum: 0.8711074909660965
+typography_spectrum: 0.7610028518829495
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#454545'
-    - '#a6a6a6'
-    - '#7c7c7c'
-    - '#ed000f'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
   brandStrength: 0.024876023875549436
-  lightness: 0.8125
-  saturation: 0.9375
-  rhythmicContrast: 0.25
+  lightness: 0.6950720953755081
+  saturation: 0.991069620475173
+  rhythmicContrast: 0.8030120253097266
 purpose: []
