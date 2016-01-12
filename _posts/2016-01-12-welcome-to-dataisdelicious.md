@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The home of interesting data and analytics shit.
-datePublished: '2016-01-12T06:19:16.362Z'
-dateModified: '2016-01-12T06:18:55.725Z'
+datePublished: '2016-01-12T06:24:24.208Z'
+dateModified: '2016-01-12T06:24:08.493Z'
 title: Welcome to dataisdelicious
 author: []
 authors: []
