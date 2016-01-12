@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[dataisdelicious]]></title>
+        <description><![CDATA[dataisdelicious]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 06:19:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to dataisdelicious]]></title>
+            <description><![CDATA[<article><h1>Welcome to dataisdelicious</h1><p>Welcome to dataisdelicious!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e7f8d54-be9c-45e8-aca2-700fda9e4d4c.png"></article>]]></description>
+            <link>undefinedwelcome-to-dataisdelicious/index.html</link>
+            <guid isPermaLink="false">83b8481e-e572-43b6-8714-78874c987de3</guid>
+            <pubDate>Tue, 12 Jan 2016 06:19:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
