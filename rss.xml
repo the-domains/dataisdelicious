@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dataisdelicious]]></title>
         <description><![CDATA[dataisdelicious]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dataisdelicious/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 05:48:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 05:48:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dataisdelicious/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Second test article.]]></title>
+            <description><![CDATA[<article><h1>Second test article.</h1><p>This is a test article x 2</p></article>]]></description>
+            <link>https://thegrid.ai/dataisdelicious/second-test-article/index.html</link>
+            <guid isPermaLink="false">f80f4c1d-c64f-49e1-b8a8-6c6d8753e72d</guid>
+            <pubDate>Mon, 18 Jan 2016 05:48:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Third test article.]]></title>
             <description><![CDATA[<article><h1>Third test article.</h1><p>This is the third test article.</p></article>]]></description>
-            <link>undefinedthird-test-article/index.html</link>
+            <link>https://thegrid.ai/dataisdelicious/third-test-article/index.html</link>
             <guid isPermaLink="false">f550a8df-96d4-4fd7-8f03-5832a2e6866f</guid>
             <pubDate>Mon, 18 Jan 2016 05:48:18 GMT</pubDate>
         </item>
